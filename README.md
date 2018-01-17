@@ -22,4 +22,4 @@ To draw something, you need 4 basic components.
     
     | Canvas02 | Canvas03|
     |:--------:|:--------:|
-    | ![](canvas02.gif) | ![](Canvas03.gif)|
+    | ![](canvas02.gif) | ![](canvas03.gif)|
