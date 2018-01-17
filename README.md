@@ -18,3 +18,8 @@ To draw something, you need 4 basic components.
     >e.g. Rect, Path, text, Bitmap 
   - A paint 
     > to describe the colors and styles for the drawing. 
+  ---
+    
+    | Canvas02 | Canvas03|
+    |:--------:|:--------:|
+    | ![](canvas02.gif) | ![](Canvas03.gif)|
